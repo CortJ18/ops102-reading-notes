@@ -1,2 +1,3 @@
-# ops102-reading-notes
-All of my Ops 102 Reading Notes.
+# Joaquin's reading notes
+
+my notes can be found in the wiki tab.
